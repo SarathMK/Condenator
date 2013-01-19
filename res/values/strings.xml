@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Condenator</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_details">Detailed Attandance</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_summary">SummaryActivity</string>
+    <string name="sign_in">Sign In</string>
+    <string name="checkbox">Remeber Me</string>
+    <string name="user_name">UserName</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="menu_about">About</string>
+
+</resources>
